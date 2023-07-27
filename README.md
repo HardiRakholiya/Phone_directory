@@ -1,4 +1,4 @@
-contributor : [kushpurohit23]( https://github.com/Kushpurohit23/Contact-directory)
+coordinator : [kushpurohit23]( https://github.com/Kushpurohit23/Contact-directory)
 # Phone_directory
 Data Structure:  linked-list of linked-list.
 The image displays the various functionality 
